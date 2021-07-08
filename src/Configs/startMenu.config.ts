@@ -30,7 +30,7 @@ export const PinnedApps: PinnedApp[] = [{
     name: "GitHub",
     icon: GitHubIcon,
     isLink: true,
-    url: "https://github.com/piyushsuthar/windows-11-web"
+    url: "https://github.com/oguzhanygtr/windows-11-web"
 }, {
     name: "Twitter",
     icon: TwitterIcon,
